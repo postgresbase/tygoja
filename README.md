@@ -68,7 +68,7 @@ You can also combine it with [typedoc](https://typedoc.org/) to create HTML/JSON
 
 See the package `/test` directory for example output.
 
-For a more detailed example you can also explore the [PocketBase's jsvm plugin](https://ganigeorgiev.com/pocketbase/pocketbase/tree/develop/plugins/jsvm/internal/docs).
+For a more detailed example you can also explore the [PocketBase's JSVM plugin](https://ganigeorgiev.com/pocketbase/pocketbase/files/plugins/jsvm/internal/types).
 
 
 ## Known issues and limitations
